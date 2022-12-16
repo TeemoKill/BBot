@@ -1,0 +1,15 @@
+/.idea
+/logs
+/miraigo-logs
+application.yaml
+device.json
+.lsp.db
+.lsp.db.lock
+BBot
+/.coverage.out
+/coverage.html
+/qrcode.png
+/qq-logs
+/session.token
+/dist/
+/template
